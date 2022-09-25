@@ -1,2 +1,2 @@
 # cv
-https://aliopav.github.io/cv/cv.md
+https://Aliopav.github.io/cv/cv.md
